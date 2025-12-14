@@ -1,7 +1,10 @@
 import { defineConfig } from 'vitepress'
 
+const base = '/blog-demo-/'; // 仓库名称
+
 // https://vitepress.dev/reference/site-config
 export default defineConfig({
+  base,
   title: "EvolveUI",
   description: "现代化、高度风格统一的 Qt6 QML 前端组件库，致力于为跨平台应用程序提供一致、优雅、响应式的 UI 体验。",
   head: [
