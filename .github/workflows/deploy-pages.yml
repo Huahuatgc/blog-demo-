@@ -68,7 +68,7 @@ jobs:
           echo "Node version: $(node --version)"
           echo "NPM version: $(npm --version)"
           ls -la
-          npm run docs:build
+          npx vitepress build
 
       # 上传构建产物，用于后续部署
       - name: Upload artifact
