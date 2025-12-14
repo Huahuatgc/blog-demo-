@@ -63,7 +63,11 @@ jobs:
       # 构建项目
       - name: Build blog project
         run: |
-          echo ${{ github.workspace }}
+          echo "Current directory: $(pwd)"
+          echo "Workspace: ${{ github.workspace }}"
+          echo "Node version: $(node --version)"
+          echo "NPM version: $(npm --version)"
+          ls -la
           npm run docs:build
 
       # 上传构建产物，用于后续部署
