@@ -1,0 +1,12 @@
+{
+  "devDependencies": {
+    "terser": "^5.44.1",
+    "vite-plugin-image-optimizer": "^2.0.3",
+    "vitepress": "^1.6.4"
+  },
+  "scripts": {
+    "docs:dev": "vitepress dev",
+    "docs:build": "vitepress build",
+    "docs:preview": "vitepress preview"
+  }
+}
