@@ -1,6 +1,6 @@
 import { defineConfig } from 'vitepress'
 
-const base = '/blog-demo-/'; // 仓库名称
+const base = '/'; // 仓库名称
 
 // https://vitepress.dev/reference/site-config
 export default defineConfig({
