@@ -13,7 +13,7 @@ Evolve UI 示例与文档仓库
 📖 在线文档
 
 访问我们的 Wiki 获取完整文档：
-https://huahuatgc.github.io/blog-demo-/
+https://evolveui.top/
 
 🛠️ 主要内容
 
@@ -38,7 +38,7 @@ https://huahuatgc.github.io/blog-demo-/
 🔗 相关链接
 
 · Evolve UI 主仓库: https://github.com/sudoevolve/EvolveUI
-· 在线演示: https://huahuatgc.github.io/blog-demo-/
+· 开发文档: https://evolveui.top/
 · 问题反馈: 请在 GitHub Issues 中提交
 
 📁 仓库结构
