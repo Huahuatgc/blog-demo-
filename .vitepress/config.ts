@@ -1,6 +1,4 @@
-import { defineConfig } from 'vitepress'
-
-export default defineConfig({
+export default {
   lang: 'zh-CN',
   title: 'EvolveUI',
   description: '现代化 Qt6 QML 组件库文档',
@@ -29,10 +27,10 @@ export default defineConfig({
 
       '/api/': [
         {
-          text: 'API',
+          text: 'API参考',
           items: [
-            { text: '组件 API', link: '/api/components' },
-            { text: '主题 API', link: '/api/theme' }
+            { text: '主题API', link: '/api/theme' },
+            { text: '组件API', link: '/api/components' }
           ]
         }
       ],
@@ -104,6 +102,6 @@ export default defineConfig({
       ]
     }
   }
-})
+}
 
 
