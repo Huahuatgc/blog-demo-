@@ -76,13 +76,11 @@ export default defineConfig({
           ]
         },
         {
-          text: '数据展示组件',
+          text: '数据展示',
           items: [
             { text: 'EAreaChart', link: '/components/areachart' },
-            { text: 'EBarChart', link: '/components/barchart' },
             { text: 'EDataTable', link: '/components/datatable' },
             { text: 'EFitnessProgress', link: '/components/fitnessprogress' },
-            { text: 'EPieChart', link: '/components/piechart' },
             { text: 'EYearProgress', link: '/components/yearprogress' }
           ]
         },
