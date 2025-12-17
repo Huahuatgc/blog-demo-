@@ -105,7 +105,7 @@ cd EvolveUI
 使用提供的脚手架脚本快速创建项目：
 ```bash
 # 运行脚手架脚本
-.	ools\New-EvolveUIProject.bat
+tools\New-EvolveUIProject.bat
 ```
 
 ### 3. 引入组件
@@ -151,4 +151,5 @@ EvolveUI 使用 MIT 许可证，详见 [LICENSE](https://github.com/sudoevolve/E
 - 项目作者：sudoevolve
 - GitHub：[https://github.com/sudoevolve](https://github.com/sudoevolve)
 - 项目地址：[https://github.com/sudoevolve/EvolveUI](https://github.com/sudoevolve/EvolveUI)
+
 
